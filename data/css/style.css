@@ -192,10 +192,11 @@ body.scale-cv {
     display: grid;
     margin-bottom: var(--mb-1);
     text-align: center;
-    padding-right: 2rem;
-
 }
 
+.skills__name {
+    padding-right: 2rem;
+}
 
 
 .scale-cv .interests__container {
@@ -595,6 +596,7 @@ img {
 /*========== COURSES ==========*/
 .courses__content {
     padding-left: 1.5rem;
+    padding-right: 2rem;
 }
 
 .courses__title {
